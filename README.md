@@ -1,13 +1,9 @@
-<p align="center">
-<img width=”200" height=”200" src=”https://github.com/user-attachments/assets/19f0b5f0-8a2d-4c72-8935-54022f601ade" alt=”my banner”>
-</p>
-
 <h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="" target="_blank" rel="noreferrer">Pavan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Backend Developer 💻
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -22,12 +18,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- poke-finder project
-- anime project
+- e-commerce project
 
 ## 🌱 I'm currently learning
 
-- 
+- AWS
 
 ## 💼 Technical Skills
 
@@ -56,16 +51,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📝 Latest Blog Posts
-
-- [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
-
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=Pavangupta0407)](https://github.com/Pavangupta0407)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
