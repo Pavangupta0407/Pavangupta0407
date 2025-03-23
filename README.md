@@ -77,8 +77,6 @@ An **all-in-one AI platform** offering chatbot streaming, text-to-speech, speech
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavangupta0407&layout=compact&theme=radical)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Pavangupta0407.Pavangupta0407)
-
 ---
 
 Let's connect and collaborate on exciting projects! 🚀
