@@ -10,9 +10,7 @@ I am a **Software Engineer at Hewlett-Packard Inc.** with **3+ years of experien
 
 ### 🔗 Connect with me:
 
-<a href="http://www.linkedin.com/in/pavan-gupta0bab91192/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pavan | LinkedIn" width="21px"/></a>
-</br>
-
+<a href="https://www.linkedin.com/in/pavan-gupta-0bab91192/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pavan | LinkedIn" width="21px"/></a>
 - 💬 Feel free to reach out for discussions on **backend architecture, microservices, cloud computing, and DevOps!**
 
 ---
