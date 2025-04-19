@@ -17,13 +17,13 @@ I am a **Software Engineer at Hewlett-Packard Inc.** with **3+ years of experien
 
 ## 🔭 Currently Working On
 - **Optimizing microservices** for high-performance data processing.
-- **Building an options trading project** leveraging real-time data analysis.
+- **Building an Ecommerce project** for clothing brand.
 - **Enhancing security & compliance** in cloud-native applications.
 
 ## 🌱 Currently Learning
-- **AWS Lambda & Event-Driven Architecture**
+- **Preparing for AWS Certification**
 - **Advanced Spring Boot & Performance Tuning**
-- **Machine Learning APIs for AI-driven applications**
+- **SpringAI for AI-driven applications**
 
 ## 🛠️ Technical Skills
 
